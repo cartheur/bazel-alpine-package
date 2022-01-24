@@ -1,7 +1,7 @@
 # Maintainer: C.A. Tucker <cartheur@pm.me>
 
 pkgname=bazel
-pkgver=0.26.1
+pkgver= 5.0.0
 pkgrel=0
 pkgdesc='Correct, reproducible, and fast builds for everyone'
 arch="all"

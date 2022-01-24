@@ -1,6 +1,6 @@
 # bazel-alpine-package
 
-This is the Bazel 0.26.1 as a Alpine Linux package.
+This is the Bazel 5.0.0 as a Alpine Linux package.
 
 ## Installing
 
