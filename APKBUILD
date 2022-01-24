@@ -1,4 +1,4 @@
-# Maintainer: David Ostrovsky <david@ostrovsky.org>
+# Maintainer: C.A. Tucker <cartheur@pm.me>
 
 pkgname=bazel
 pkgver=0.26.1
